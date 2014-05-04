@@ -11,7 +11,10 @@
 |
 */
 
-Route::get('/', function()
+/*Route::get('/', function()
 {
 	return "hello Alejandra ;)";
-});
+});*/
+
+//site routes
+Route::get('/', 'site\SiteController@index');
