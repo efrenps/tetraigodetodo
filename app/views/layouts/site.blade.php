@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>{{$title}}</title>
 	<!-- Frameworks -->
 	{{ HTML::style('packages/awesome/css/font-awesome.min.css'); }} 
@@ -10,6 +11,7 @@
    	{{ HTML::style('packages/toastr/css/toastr.min.css'); }}
    	{{ HTML::style('packages/bootflat/css/bootflat.css'); }}
    	{{ HTML::style('packages/bxslider/bxslider.css'); }}
+   	{{ HTML::style('css/layout.css'); }}
 
    	<!-- Fonts -->
    	<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,800,700,400italic,600italic,700italic,800italic,300italic" rel="stylesheet" type="text/css">
@@ -75,9 +77,52 @@
           @yield('content')
     </div>
     <footer class="row" style="background-color:#48CFAD">    	
-    	<div class="col-md-12">
-    		footer
-    	<br><br><br><br>
+    	<div class="row" style="margin-top:1%; margin-bottom:2%;background-color:#FFFFFF;">
+    		<div id="tickerContainer" class="col-md-12">
+    			<ul id="ticker">
+					<li><a target="_blank" href="http://www.amazon.com/"><span><img src="img/site/logos/1_2_amazon.jpg" alt=""></span></a></li>
+					<li><a target="_blank" href="#"><span><img src="img/site/logos/12_1_ebaylisto.jpg" alt=""></span></a></li>
+					<li><a target="_blank" href="#"><span><img src="img/site/logos/9_3_americanlisto.jpg" alt=""></span></a></li>
+					<li><a target="_blank" href="#"><span><img src="img/site/logos/13_1_foreverlisto.jpg" alt=""></span></a></li>
+					<li><a target="_blank" href="#"><span><img src="img/site/logos/15_3_oldnavylisto.jpg" alt=""></span></a></li>
+					<li><a target="_blank" href="#"><span><img src="img/site/logos/33_1_buyclisto.jpg" alt=""></span></a></li>
+					<li><a target="_blank" href="#"><span><img src="img/site/logos/10_2_rakutenlistos.jpg" alt=""></span></a></li>
+					<li><a target="_blank" href="#"><span><img src="img/site/logos/76_1_walmartlisto.jpg" alt=""></span></a></li>
+					<li><a target="_blank" href="#"><span><img src="img/site/logos/67_1_babylisto.jpg" alt=""></span></a></li>
+					<li><a target="_blank" href="#"><span><img src="img/site/logos/11_1_gaplisto.jpg" alt=""></span></a></li>
+					<li><a target="_blank" href="#"><span><img src="img/site/logos/35_1_disneylisto.jpg" alt=""></span></a></li>
+					<li><a target="_blank" href="#"><span><img src="img/site/logos/54_1_tigerlisto.jpg" alt=""></span></a></li>
+					<li><a target="_blank" href="#"><span><img src="img/site/logos/46_1_jcplisto.jpg" alt=""></span></a></li>
+					<li><a target="_blank" href="#"><span><img src="img/site/logos/49_1_dollarlisto.jpg" alt=""></span></a></li>
+					<li><a target="_blank" href="#"><span><img src="img/site/logos/72_1_music123.jpg" alt=""></span></a></li>
+					<li><a target="_blank" href="#"><span><img src="img/site/logos/93_1_fox.jpg" alt=""></span></a></li>
+					<li><a target="_blank" href="#"><span><img src="img/site/logos/106_1_loft.jpg" alt=""></span></a></li>
+					<li><a target="_blank" href="#"><span><img src="img/site/logos/42_3_destinationlisto.jpg" alt=""></span></a></li>
+					<li><a target="_blank" href="#"><span><img src="img/site/logos/19_1_shoelisto.jpg" alt=""></span></a></li>
+					<li><a target="_blank" href="#"><span><img src="img/site/logos/17_2_victorialisto.jpg" alt=""></span></a></li>
+					<li><a target="_blank" href="#"><span><img src="img/site/logos/18_1_spiritlisto.jpg" alt=""></span></a></li>
+					<li><a target="_blank" href="#"><span><img src="img/site/logos/8_1_aplisto.jpg" alt=""></span></a></li>
+					<li><a target="_blank" href="#"><span><img src="img/site/logos/69_1_barneslisto.jpg" alt=""></span></a></li>
+					<li><a target="_blank" href="#"><span><img src="img/site/logos/82_3_crocslisto.jpg" alt=""></span></a></li>
+				</ul>
+    		</div>
+    	</div>
+    	<div class="row">
+    		<div class="col-md-4">
+    			<img src="img/logo.png" style="max-width:50%;"/>
+    		</div>
+    		<div class="col-md-4" style="text-align:center;">
+    			<label>Copyright © 2014 - Tetraigodetodo.com</label>
+    			<label>| Terminos y condiciones |</label>
+    		</div>
+    		<div class="col-md-4" style="text-align:right;font-size:250%; padding-right:3%;color:white;">
+    			<label>
+    				<i class="fa fa-facebook-square"></i>
+    			</label>
+    			<label>
+    				<i class="fa fa-twitter-square"></i>
+    			</label>
+    		</div>
     	</div>
     </footer>
     {{-- jQuery (necessary for Bootstrap's JavaScript plugins) --}}
@@ -86,12 +131,43 @@
     {{ HTML::script('packages/bootstrap/js/bootstrap.min.js') }}
     {{ HTML::script('packages/toastr/js/toastr.min.js'); }}
     {{ HTML::script('packages/bxslider/bxslider.min.js'); }}
+
+    @yield('scripts')
+    
     <script type="text/javascript">
-	$('.bxslider').bxSlider({
+	$("#banner").bxSlider({
 	  auto: true,
 	  autoControls: true,
 	  //adaptiveHeight: true,
 	});
+	
+	$("#ticker").bxSlider({
+	  minSlides: 4,
+	  maxSlides: 4,
+	  slideWidth: 270,
+	  slideMargin: 30,
+	  ticker: true,
+	  speed: 60000
+	});
+
+	function StartToastMessage()
+	{
+	    toastr.options = {
+	      "closeButton": false,
+	      "debug": false,
+	      "positionClass": "toast-center-screen",
+	      "onclick": null,
+	      "showDuration": "300",
+	      "hideDuration": "1000",
+	      "timeOut": "5000",
+	      "extendedTimeOut": "1000",
+	      "showEasing": "swing",
+	      "hideEasing": "linear",
+	      "showMethod": "fadeIn",
+	      "hideMethod": "fadeOut"
+	    } 
+	}
+
 </script>
 </body>
 </html>

@@ -12,9 +12,10 @@ class CreateTestTable extends Migration {
 	 */
 	public function up()
 	{
-		Schema::create('test', function(Blueprint $table) {
+		Schema::create('Products', function(Blueprint $table) {
 			$table->increments('id');
-			$table->string('data');
+			$table->string('name');
+			$table->string('value');
 			$table->timestamps();
 		});
 	}
@@ -26,7 +27,7 @@ class CreateTestTable extends Migration {
 	 */
 	public function down()
 	{
-		Schema::drop('test');
+		Schema::drop('Products');
 	}
 
 }

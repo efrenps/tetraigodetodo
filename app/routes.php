@@ -16,5 +16,9 @@
 	return "hello Alejandra ;)";
 });*/
 
-//site routes
+#site routes
 Route::get('/', 'site\SiteController@index');
+Route::get('test', 'site\SiteController@test');
+
+#app routes
+Route::get('login', 'app\LoginController@index');

@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<producto>
+   <elemento>
+      <key>Accesorios de Camara</key>
+      <value>26.50%</value>
+   </elemento>
+   <elemento>
+      <key>Accesorios de Cultura Física</key>
+      <value>50.30%</value>
+   </elemento>
+   <elemento>
+      <key>Accesorios de Impresoras</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Accesorios de Vehículo</key>
+      <value>26.50%</value>
+   </elemento>
+   <elemento>
+      <key>Accesorios Extrenos de Computadora</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Accesorios Musicales</key>
+      <value>20.75%</value>
+   </elemento>
+   <elemento>
+      <key>Accesorios para Fiesta</key>
+      <value>49.84%</value>
+   </elemento>
+   <elemento>
+      <key>Accesorios Proyector</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Adaptador</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Adorno de Piedra</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Adornos de ceramica, madera, metal, plastico, vidrio</key>
+      <value>49.84%</value>
+   </elemento>
+   <elemento>
+      <key>Agenda de Papel</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Agenda Electrónica</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Alarma</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Alfombra</key>
+      <value>43.23%</value>
+   </elemento>
+   <elemento>
+      <key>Amortiguadores</key>
+      <value>20.75%</value>
+   </elemento>
+   <elemento>
+      <key>Amplificador</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Antena</key>
+      <value>26.50%</value>
+   </elemento>
+   <elemento>
+      <key>Anteojos de Sol</key>
+      <value>43.23%</value>
+   </elemento>
+   <elemento>
+      <key>Anzuelo</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Aros de Bicicleta y Moto</key>
+      <value>26.50%</value>
+   </elemento>
+   <elemento>
+      <key>Aros de Carro</key>
+      <value>20.75%</value>
+   </elemento>
+   <elemento>
+      <key>Aspiradora</key>
+      <value>43.23%</value>
+   </elemento>
+   <elemento>
+      <key>Bateria Acústica</key>
+      <value>26.50%</value>
+   </elemento>
+   <elemento>
+      <key>Baterias / Pilas</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Batidora</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Bicicleta</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Billetera</key>
+      <value>Cartera de Hombre</value>
+   </elemento>
+   <elemento>
+      <key>Binoculares</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Bocina</key>
+      <value>43.23%</value>
+   </elemento>
+   <elemento>
+      <key>Bolillos para Tambor</key>
+      <value>20.75%</value>
+   </elemento>
+   <elemento>
+      <key>Bolsa de Aire</key>
+      <value>20.75%</value>
+   </elemento>
+   <elemento>
+      <key>Bolsa de Dormir</key>
+      <value>49.84%</value>
+   </elemento>
+   <elemento>
+      <key>Bolso para Laptop</key>
+      <value>52.09%</value>
+   </elemento>
+   <elemento>
+      <key>Bomba de Aceite / agua</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Bombillos</key>
+      <value>20.75%</value>
+   </elemento>
+   <elemento>
+      <key>Bujias</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Cables</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Cafetera</key>
+      <value>49.84%</value>
+   </elemento>
+   <elemento>
+      <key>Calculadora</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Calentador</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Calentador de Agua</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Camara de Video</key>
+      <value>43.98%</value>
+   </elemento>
+   <elemento>
+      <key>Camara Fotográfica Digital</key>
+      <value>43.98%</value>
+   </elemento>
+   <elemento>
+      <key>Camara Fotográfica Tradicional</key>
+      <value>56.45%</value>
+   </elemento>
+   <elemento>
+      <key>Caña de pescar</key>
+      <value>56.63%</value>
+   </elemento>
+   <elemento>
+      <key>Cargador</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Carrete de Pesca</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Carroceria</key>
+      <value>43.98%</value>
+   </elemento>
+   <elemento>
+      <key>Carrocería de Moto</key>
+      <value>26.50%</value>
+   </elemento>
+   <elemento>
+      <key>Cartera de Mujer</key>
+      <value>Bolso</value>
+   </elemento>
+   <elemento>
+      <key>Cartuchos de Tinta</key>
+      <value>26.50%</value>
+   </elemento>
+   <elemento>
+      <key>Casa de campaña</key>
+      <value>52.09%</value>
+   </elemento>
+   <elemento>
+      <key>Casco</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Case para Cpu</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Catálogos</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Cd's</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Champú</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Chip</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Cintas de medición de Glucosa</key>
+      <value>0.00%</value>
+   </elemento>
+   <elemento>
+      <key>Cinturón</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Clutch</key>
+      <value>20.75%</value>
+   </elemento>
+   <elemento>
+      <key>Coche de Bebé</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Colchón</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Computadora</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Consola de Video Juegos</key>
+      <value>43.23%</value>
+   </elemento>
+   <elemento>
+      <key>Control remoto</key>
+      <value>38.11%</value>
+   </elemento>
+   <elemento>
+      <key>Cortadora de Zacate</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Cortinas</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Creatina</key>
+      <value>26.50%</value>
+   </elemento>
+   <elemento>
+      <key>Cubiertos para Comer</key>
+      <value>37.65%</value>
+   </elemento>
+   <elemento>
+      <key>Disco de Acetato</key>
+      <value>43.23%</value>
+   </elemento>
+   <elemento>
+      <key>Disco Duro Extreno</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Disfraz</key>
+      <value>45.47%</value>
+   </elemento>
+   <elemento>
+      <key>Diskman o Walkman</key>
+      <value>49.84%</value>
+   </elemento>
+   <elemento>
+      <key>Dvd</key>
+      <value>26.50%</value>
+   </elemento>
+   <elemento>
+      <key>Dvd Player</key>
+      <value>56.45%</value>
+   </elemento>
+   <elemento>
+      <key>Dvd Recorder</key>
+      <value>56.45%</value>
+   </elemento>
+   <elemento>
+      <key>Electrodomésticos</key>
+      <value>26.50%</value>
+   </elemento>
+   <elemento>
+      <key>Estuche para Instrumento Musical</key>
+      <value>49.84%</value>
+   </elemento>
+   <elemento>
+      <key>Estuche/Cover de Celular</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Estuche/Cover de Celular de cuero</key>
+      <value>52.09%</value>
+   </elemento>
+   <elemento>
+      <key>Faja de transmisión</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Filtro de aceite / aire</key>
+      <value>26.50%</value>
+   </elemento>
+   <elemento>
+      <key>Filtro de Agua</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Fluorescente</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Fotocopiadora</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Freidora</key>
+      <value>26.50%</value>
+   </elemento>
+   <elemento>
+      <key>Frenos y Partes</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Fuente de Poder</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Fusile</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Gata Hidráulica</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Generador de Señal</key>
+      <value>20.75%</value>
+   </elemento>
+   <elemento>
+      <key>Glucómetro</key>
+      <value>0.00%</value>
+   </elemento>
+   <elemento>
+      <key>GPS</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Grifería</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Guitarra Acústica</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Herramientas</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Herramientas de Jardín</key>
+      <value>20.75%</value>
+   </elemento>
+   <elemento>
+      <key>Horno de Microondas</key>
+      <value>20.75%</value>
+   </elemento>
+   <elemento>
+      <key>Impresora</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Instrumento Viento Metal</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Instrumentos musicales</key>
+      <value>26.50%</value>
+   </elemento>
+   <elemento>
+      <key>iPod</key>
+      <value>Reproductor de Sonido y Video</value>
+   </elemento>
+   <elemento>
+      <key>iPod</key>
+      <value>Reproductor Musical</value>
+   </elemento>
+   <elemento>
+      <key>Joyería / Bisuterias</key>
+      <value>69.68%</value>
+   </elemento>
+   <elemento>
+      <key>Juego de Mesa</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Juegos de Videos de Lector Óptico</key>
+      <value>26.50%</value>
+   </elemento>
+   <elemento>
+      <key>Juguetes</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Karaoke</key>
+      <value>49.84%</value>
+   </elemento>
+   <elemento>
+      <key>Keratina</key>
+      <value>52.09%</value>
+   </elemento>
+   <elemento>
+      <key>Laca, Crema para el Cabello</key>
+      <value>49.84%</value>
+   </elemento>
+   <elemento>
+      <key>Lampara</key>
+      <value>49.84%</value>
+   </elemento>
+   <elemento>
+      <key>Lapicero/Pluma</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Laptop</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Lector CD / DVD Rom</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Lector Electrónico</key>
+      <value>Kindle</value>
+   </elemento>
+   <elemento>
+      <key>Lente de Contacto</key>
+      <value>20.75%</value>
+   </elemento>
+   <elemento>
+      <key>Libros</key>
+      <value>0.00%</value>
+   </elemento>
+   <elemento>
+      <key>Llantas</key>
+      <value>38.11%</value>
+   </elemento>
+   <elemento>
+      <key>Llave Maya</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Lociones / Crema</key>
+      <value>49.84%</value>
+   </elemento>
+   <elemento>
+      <key>Luces de carro</key>
+      <value>20.75%</value>
+   </elemento>
+   <elemento>
+      <key>Maletín</key>
+      <value>49.84%</value>
+   </elemento>
+   <elemento>
+      <key>Manguera</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Máquina de coser, Soldar Moler Café</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Máscaras</key>
+      <value>52.09%</value>
+   </elemento>
+   <elemento>
+      <key>Memoria Portátil</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Memoria RAM</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Microscopio</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Mixer</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Mochila Escolar</key>
+      <value>0.00%</value>
+   </elemento>
+   <elemento>
+      <key>Mochila</key>
+      <value>Bolso</value>
+   </elemento>
+   <elemento>
+      <key>Monedas</key>
+      <value>5.00%</value>
+   </elemento>
+   <elemento>
+      <key>Monitor lcd o tradicional</key>
+      <value>49.84%</value>
+   </elemento>
+   <elemento>
+      <key>Monitor de Ritmo Cardiaco</key>
+      <value>0.00%</value>
+   </elemento>
+   <elemento>
+      <key>Motor</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Mouse</key>
+      <value>Ratón de Computadora</value>
+   </elemento>
+   <elemento>
+      <key>MP3</key>
+      <value>Reproductor de Sonido</value>
+   </elemento>
+   <elemento>
+      <key>MP4</key>
+      <value>Reproductor de Sonido y Video</value>
+   </elemento>
+   <elemento>
+      <key>Muebles</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Mufle</key>
+      <value>20.75%</value>
+   </elemento>
+   <elemento>
+      <key>Ollas y Sartenes</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Palos de Golf</key>
+      <value>62.95%</value>
+   </elemento>
+   <elemento>
+      <key>Paños</key>
+      <value>26.50%</value>
+   </elemento>
+   <elemento>
+      <key>Pantalla de celular</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Pantalla de Computadora</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Pantalla de mp3</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Papel</key>
+      <value>26.50%</value>
+   </elemento>
+   <elemento>
+      <key>Parabrisas</key>
+      <value>20.75%</value>
+   </elemento>
+   <elemento>
+      <key>Parlantes</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Parte de Bicicleta</key>
+      <value>26.50%</value>
+   </elemento>
+   <elemento>
+      <key>Parte de Impresoa</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Parte de Montacarga</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Parte de Moto</key>
+      <value>26.50%</value>
+   </elemento>
+   <elemento>
+      <key>Pastilla de Freno</key>
+      <value>20.75%</value>
+   </elemento>
+   <elemento>
+      <key>Patines Ruedas / Hielo</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Pedal de Guitarra</key>
+      <value>20.75%</value>
+   </elemento>
+   <elemento>
+      <key>Pelotas de Golf</key>
+      <value>62.95%</value>
+   </elemento>
+   <elemento>
+      <key>Peluca</key>
+      <value>43.23%</value>
+   </elemento>
+   <elemento>
+      <key>Perfumes</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Pieza de Metal</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Pieza de Plástico</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Pinturas</key>
+      <value>26.50%</value>
+   </elemento>
+   <elemento>
+      <key>Plancha de Pelo</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Plantilla Cocina</key>
+      <value>26.50%</value>
+   </elemento>
+   <elemento>
+      <key>Platillo Musical</key>
+      <value>26.50%</value>
+   </elemento>
+   <elemento>
+      <key>Platos de Cerámica</key>
+      <value>49.84%</value>
+   </elemento>
+   <elemento>
+      <key>Posters</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Procesador</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Proteína</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Proyector de Video Para Pc o Tv</key>
+      <value>49.84%</value>
+   </elemento>
+   <elemento>
+      <key>Quemador</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Rack para Carro</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Radiador</key>
+      <value>20.75%</value>
+   </elemento>
+   <elemento>
+      <key>Radio de Comunicación</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Radio Normal y Carro</key>
+      <value>49.84%</value>
+   </elemento>
+   <elemento>
+      <key>Raqueta</key>
+      <value>43.98%</value>
+   </elemento>
+   <elemento>
+      <key>Refrigeradora</key>
+      <value>56.45%</value>
+   </elemento>
+   <elemento>
+      <key>Reloj Muñeca o Pared</key>
+      <value>49.84%</value>
+   </elemento>
+   <elemento>
+      <key>Repuestos de celular</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Repuestos de Motor</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Respuestos de Vehículo</key>
+      <value>20.75%</value>
+   </elemento>
+   <elemento>
+      <key>Revista</key>
+      <value>0.00%</value>
+   </elemento>
+   <elemento>
+      <key>Romana</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Ropa</key>
+      <value>45.48%</value>
+   </elemento>
+   <elemento>
+      <key>Ropa Intima</key>
+      <value>49.84%</value>
+   </elemento>
+   <elemento>
+      <key>Router</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Sabanas</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Sandalias</key>
+      <value>Chinelas</value>
+   </elemento>
+   <elemento>
+      <key>Secadora de Pelo</key>
+      <value>26.50%</value>
+   </elemento>
+   <elemento>
+      <key>Silla de bebé para carro</key>
+      <value>26.50%</value>
+   </elemento>
+   <elemento>
+      <key>Silla de escritorio</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Sofá</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Software</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Sombrilla</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Suplementos Alimenticios Líquido</key>
+      <value>26.50%</value>
+   </elemento>
+   <elemento>
+      <key>Suplementos Alimenticios Polvo</key>
+      <value>26.50%</value>
+   </elemento>
+   <elemento>
+      <key>Suspención de Carro</key>
+      <value>26.50%</value>
+   </elemento>
+   <elemento>
+      <key>Suspención de Moto</key>
+      <value>20.75%</value>
+   </elemento>
+   <elemento>
+      <key>Tabla de Surf</key>
+      <value>62.95%</value>
+   </elemento>
+   <elemento>
+      <key>Tableta Electrónica</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Taco de Billar</key>
+      <value>39.15%</value>
+   </elemento>
+   <elemento>
+      <key>Tacómetro</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Tambor</key>
+      <value>26.50%</value>
+   </elemento>
+   <elemento>
+      <key>Tarjeta de Memoria, Video, Madre</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Tarjeta SIM</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Teatro en Casa</key>
+      <value>56.45%</value>
+   </elemento>
+   <elemento>
+      <key>Teclado de celular</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Teclado de Computadora</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Teclado Musical</key>
+      <value>26.50%</value>
+   </elemento>
+   <elemento>
+      <key>Tela</key>
+      <value>Tejidos</value>
+   </elemento>
+   <elemento>
+      <key>Teléfono Celular y Fijo</key>
+      <value>38.00%</value>
+   </elemento>
+   <elemento>
+      <key>Telescopio</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Televisor</key>
+      <value>49.84%</value>
+   </elemento>
+   <elemento>
+      <key>Tienda de Campaña</key>
+      <value>26.50%</value>
+   </elemento>
+   <elemento>
+      <key>Tinta</key>
+      <value>26.50%</value>
+   </elemento>
+   <elemento>
+      <key>Toner</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Transformador</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Transitores</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Tripode Camara</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Válvulas</key>
+      <value>15.00%</value>
+   </elemento>
+   <elemento>
+      <key>Vaso de Vidrio</key>
+      <value>32.25%</value>
+   </elemento>
+   <elemento>
+      <key>Volante de Carro</key>
+      <value>26.50%</value>
+   </elemento>
+   <elemento>
+      <key>Zapatos</key>
+      <value>32.25%</value>
+   </elemento>
+</producto>

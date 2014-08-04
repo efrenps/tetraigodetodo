@@ -1,0 +1,57 @@
+#tickerContainer .bx-wrapper, #tickerContainer .bx-viewport
+{height: 65px !important;}
+
+#tickerContainer .bx-wrapper
+{margin: 0px;}
+
+.cargos label{
+    display:block;
+    margin-bottom: 0px;
+    color: #847C7A;
+    font-size: 16px;
+}
+
+#encabezado label{
+	color: #0053A1;
+	background-color: transparent;
+	font-size: 16pt;
+	font-weight: bold;
+	padding: 1%;
+}
+#encabezado{
+	background-color: #e5e5e5;
+	margin-top: 5%;
+	margin-bottom: 2%;
+}
+
+#Total, #SubTotal{
+	background-color: #e5e5e5;
+	margin-top: 2%;
+	padding: 1%;
+}
+
+#SubTotal{
+	font-weight: bold;
+	font-size: 12pt;
+}
+
+#Total{
+	color: #0053A1;
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+.right{
+	text-align: right;
+	padding-right: 5%;
+}
+
+.Cotizacion{
+	display: none;
+}
+/* ***************  Mediaqueries *************************/
+
+@media all and (max-width: 699px) and (min-width: 320px){
+ 	#tickerContainer .bx-wrapper, #tickerContainer .bx-viewport 
+	{height: 55px !important;}
+}
