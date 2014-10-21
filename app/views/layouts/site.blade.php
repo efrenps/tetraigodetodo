@@ -12,6 +12,7 @@
    	{{ HTML::style('packages/bootflat/css/bootflat.css'); }}
    	{{ HTML::style('packages/bxslider/bxslider.css'); }}
    	{{ HTML::style('css/layout.css'); }}
+   	{{ HTML::style('css/contacto.css'); }}
 
    	<!-- Fonts -->
    	<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,800,700,400italic,600italic,700italic,800italic,300italic" rel="stylesheet" type="text/css">
@@ -45,22 +46,22 @@
 								<li class="active"><a href="#"><i class="glyphicon glyphicon-home"></i> Inicio</a></li>
 								<!-- <li class="disabled"><a href="#">Link</a></li> -->
 							</ul>
-							<ul class="nav navbar-nav">
+							<!-- <ul class="nav navbar-nav">
 								<li class=""><a href="#">Servicios</a></li>
-								<!-- <li class="disabled"><a href="#">Link</a></li> -->
+								<!-- <li class="disabled"><a href="#">Link</a></li> 
 							</ul>
 							<ul class="nav navbar-nav">
 								<li class=""><a href="#">Ordenar</a></li>
-								<!-- <li class="disabled"><a href="#">Link</a></li> -->
+								<!-- <li class="disabled"><a href="#">Link</a></li> 
 							</ul>
 							<ul class="nav navbar-nav">
 								<li class=""><a href="#">Nosotros</a></li>
-								<!-- <li class="disabled"><a href="#">Link</a></li> -->
+								<!-- <li class="disabled"><a href="#">Link</a></li> 
 							</ul>
 							<ul class="nav navbar-nav">
 								<li class=""><a href="#">Contáctenos</a></li>
-								<!-- <li class="disabled"><a href="#">Link</a></li> -->
-							</ul>
+								<!-- <li class="disabled"><a href="#">Link</a></li> 
+							</ul> -->
 							<!--<ul class="nav navbar-nav">
 								<li class=""><a href="#"><i class="fa fa-users"></i> Ingresar</a></li>
 								 <li class="disabled"><a href="#">Link</a></li> 
@@ -78,7 +79,7 @@
     </div>
     <footer class="row" style="background-color:#48CFAD">    	
     	<div class="row" style="margin-top:1%; margin-bottom:2%;background-color:#FFFFFF;">
-    		<div id="tickerContainer" class="col-md-12">
+<!--     		<div id="tickerContainer" class="col-md-12">
     			<ul id="ticker">
 					<li><a target="_blank" href="http://www.amazon.com/"><span><img src="img/site/logos/1_2_amazon.jpg" alt=""></span></a></li>
 					<li><a target="_blank" href="#"><span><img src="img/site/logos/12_1_ebaylisto.jpg" alt=""></span></a></li>
@@ -105,7 +106,7 @@
 					<li><a target="_blank" href="#"><span><img src="img/site/logos/69_1_barneslisto.jpg" alt=""></span></a></li>
 					<li><a target="_blank" href="#"><span><img src="img/site/logos/82_3_crocslisto.jpg" alt=""></span></a></li>
 				</ul>
-    		</div>
+    		</div> -->
     	</div>
     	<div class="row">
     		<div class="col-md-4">
